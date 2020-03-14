@@ -1,4 +1,4 @@
-# IstaUnsplash
+# InstaUnsplash
 
 SPA photo gallery with Unsplash API. 
 
