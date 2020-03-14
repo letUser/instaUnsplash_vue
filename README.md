@@ -6,6 +6,6 @@ SPA photo gallery with Unsplash API.
 https://codesandbox.io/s/github/letUser/instaUnsplash_vue/tree/master/
 
 <b>See deployment: </b> <br />
-https://km2kc.csb.app/
+https://km2kc.csb.app/1
 
 
