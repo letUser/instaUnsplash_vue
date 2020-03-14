@@ -1,4 +1,4 @@
-# instaUnsplash_vue
+# IstaUnsplash
 
 SPA photo gallery with Unsplash API. 
 
